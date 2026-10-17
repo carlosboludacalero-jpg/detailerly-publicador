@@ -1,247 +1,43 @@
 [
  {
-  "id": "2026-10-13_0745_carrusel",
-  "cuando": "2026-10-13T07:45:00+02:00",
-  "fecha": "2026-10-13",
-  "hora": "07:45",
-  "tipo": "carrusel",
-  "caption": "Las fábricas españolas trabajaron al 78 % de su capacidad en el 3.er trimestre de 2026. Cómo separar, en tu planta, lo que no se usa por falta de pedidos de lo que se pierde con la línea en marcha.\n\nFuente: Ministerio de Industria y Turismo, Encuesta de Coyuntura Industrial, informe de septiembre de 2026.\n\n¿Quieres más información? Comenta INFO o escríbeme por privado.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
-  "archivos": [
-   "media/2026-10-13_0745_carrusel/01.jpg",
-   "media/2026-10-13_0745_carrusel/02.jpg",
-   "media/2026-10-13_0745_carrusel/03.jpg",
-   "media/2026-10-13_0745_carrusel/04.jpg",
-   "media/2026-10-13_0745_carrusel/05.jpg",
-   "media/2026-10-13_0745_carrusel/06.jpg",
-   "media/2026-10-13_0745_carrusel/07.jpg"
-  ]
- },
- {
-  "id": "2026-10-13_1345_reel",
-  "cuando": "2026-10-13T13:45:00+02:00",
-  "fecha": "2026-10-13",
-  "hora": "13:45",
-  "tipo": "reel",
-  "caption": "Director de planta: las fábricas españolas trabajaron al 78 % de su capacidad en el tercer trimestre de 2026 (Ministerio de Industria, Encuesta de Coyuntura Industrial). ¿Y el resto, de quién es?\n\nCarmen dirige una conservera y lee el dato del Ministerio: las de bienes de consumo, como la suya, al 73,5 %. Y Europa, casi igual: 77,9 % en julio.\n\nPero ese hueco tiene dos partes: lo que no se usa porque faltan pedidos (lo decide el mercado) y lo que se pierde con la línea en marcha: arranques, esperas y cambios de formato. Solo la segunda depende de ti.\n\nOjo: no es OEE; es lo que declaran los directivos e incluye la falta de pedidos. Para separarlo en tu planta: horas sin pedidos, horas con turno programado y, dentro de esas, cada parada con su causa.\n\nFuentes: Ministerio de Industria y Turismo, Encuesta de Coyuntura Industrial, informe de septiembre de 2026 (3.er trimestre), y Comisión Europea, encuesta de julio de 2026. La historia es un ejemplo.\n\n¿Qué os frena más: pedidos o paradas? Te leo en comentarios.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
-  "archivos": [
-   "media/2026-10-13_1345_reel/01.mp4"
-  ]
- },
- {
-  "id": "2026-10-14_0800_historias",
-  "cuando": "2026-10-14T08:00:00+02:00",
-  "fecha": "2026-10-14",
-  "hora": "08:00",
-  "tipo": "historias",
-  "caption": "",
-  "archivos": [
-   "media/2026-10-14_0800_historias/01.jpg",
-   "media/2026-10-14_0800_historias/02.mp4",
-   "media/2026-10-14_0800_historias/03.jpg"
-  ]
- },
- {
-  "id": "2026-10-14_1345_reel",
-  "cuando": "2026-10-14T13:45:00+02:00",
-  "fecha": "2026-10-14",
-  "hora": "13:45",
-  "tipo": "reel",
-  "caption": "Gerente de fábrica: el OEE son tres preguntas. ¿Funciona? ¿Va a su ritmo? ¿Salen buenas? Con una sola máquina se entiende.\n\nSergio lleva una planta de inyección de plástico y prueba el OEE con la inyectora 4 en un turno. ¿Funciona cuando debe? En marcha el 82 % del turno. ¿Va a su ritmo? 800 piezas de 1.000 posibles (80 %). ¿Salen buenas? 95 de cada 100.\n\nSe multiplican: 0,82 × 0,80 × 0,95 = un OEE de un 62 %. Y lo que más le restaba no eran las averías, sino el ritmo. (Datos simulados.)\n\nUn estudio con datos de OEE de 98 empresas suecas (2006-2012) apunta lo mismo: lo que más resta son las pérdidas de velocidad y las pequeñas paradas.\n\nFuente del estudio: Ylipää, Skoogh, Bokrantz y Gopalakrishnan (2017), International Journal of Productivity and Performance Management.\n\nSíguenos para más mejora continua para fábricas, sin humo.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
-  "archivos": [
-   "media/2026-10-14_1345_reel/01.mp4"
-  ]
- },
- {
-  "id": "2026-10-15_1345_reel",
-  "cuando": "2026-10-15T13:45:00+02:00",
-  "fecha": "2026-10-15",
-  "hora": "13:45",
-  "tipo": "reel",
-  "caption": "Si diriges una planta: esto es lo que hace Detailerly y lo que no hace, con una línea de ejemplo.\n\nImagina una embotelladora: no se para tanto, pero pierde un poco cada día y nadie lo ve junto. Detailerly es un sistema que detecta constantemente, con visión artificial, las paradas de la producción y dónde se puede optimizar tu línea.\n\nQué ves en el panel: cada parada y microparada con su hora, su máquina, lo que duró y su vídeo; dónde se acumula el producto y qué puesto frena la línea; y cada lunes, el Parte Automático: las 3 paradas más graves y el resumen de todo lo demás. El primer mes te dice por dónde empezar; cada mes siguiente, si lo que ha cambiado tu equipo funciona y qué atacar ahora.\n\nLo que no hace: no identifica a nadie ni mide a ningún operario; no detecta defectos solo, ni cascos o chalecos; no se conecta a tus máquinas, al ERP ni al MES; no avisa al móvil ni al correo (todo se ve en el panel), y no arregla nada. El cómo lo decide tu equipo.\n\nImágenes del vídeo: cuenta de demostración, datos simulados.\n\nMás en detailerly.com (enlace en el perfil).\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
-  "archivos": [
-   "media/2026-10-15_1345_reel/01.mp4"
-  ]
- },
- {
-  "id": "2026-10-16_0745_carrusel",
-  "cuando": "2026-10-16T07:45:00+02:00",
-  "fecha": "2026-10-16",
-  "hora": "07:45",
-  "tipo": "carrusel",
-  "caption": "Lo que más se recuerda no es lo que más pesa: la avería se recuerda; cien paradas de un minuto, no. Cinco pasos antes de decidir qué máquina revisar.\n\n(Ejemplo con datos simulados.)\n\n¿Quieres más información? Comenta INFO o escríbeme por privado.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
-  "archivos": [
-   "media/2026-10-16_0745_carrusel/01.jpg",
-   "media/2026-10-16_0745_carrusel/02.jpg",
-   "media/2026-10-16_0745_carrusel/03.jpg",
-   "media/2026-10-16_0745_carrusel/04.jpg",
-   "media/2026-10-16_0745_carrusel/05.jpg",
-   "media/2026-10-16_0745_carrusel/06.jpg",
-   "media/2026-10-16_0745_carrusel/07.jpg"
-  ]
- },
- {
-  "id": "2026-10-16_0800_historias",
-  "cuando": "2026-10-16T08:00:00+02:00",
-  "fecha": "2026-10-16",
-  "hora": "08:00",
-  "tipo": "historias",
-  "caption": "",
-  "archivos": [
-   "media/2026-10-16_0800_historias/01.jpg",
-   "media/2026-10-16_0800_historias/02.mp4",
-   "media/2026-10-16_0800_historias/03.jpg"
-  ]
- },
- {
-  "id": "2026-10-16_1345_reel",
-  "cuando": "2026-10-16T13:45:00+02:00",
-  "fecha": "2026-10-16",
-  "hora": "13:45",
-  "tipo": "reel",
-  "caption": "Jefe de producción: ¿qué máquina culpáis en cada reunión? Esta es la historia de un horno con mala fama.\n\nEn una fábrica de pan de molde, el horno se rompe un martes: dos horas parado. Todo el mundo lo recuerda, y en la reunión todos lo señalan.\n\nPero Tomás, el jefe de producción, apunta una semana entera, también lo corto. Y sale otra cosa: la cortadora pierde tres horas en paradas de un minuto; el horno, dos. Una avería de dos horas es una historia que se cuenta. Cien paradas de un minuto, no.\n\nLa moraleja: lo que se recuerda no es lo que pesa. Antes de culpar a una máquina, apúntalo todo y decide con el papel, no con la memoria.\n\n(Historia de ejemplo, con datos simulados.)\n\n¿Qué máquina culpáis siempre? Te leo en comentarios.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
-  "archivos": [
-   "media/2026-10-16_1345_reel/01.mp4"
-  ]
- },
- {
-  "id": "2026-10-17_1000_reel",
-  "cuando": "2026-10-17T10:00:00+02:00",
-  "fecha": "2026-10-17",
-  "hora": "10:00",
-  "tipo": "reel",
-  "caption": "Gerente de fábrica: tu ERP sabe cuánto fabricaste. No por qué se paró la línea.\n\nIgnacio dirige una fábrica de latas. El lunes abre el ERP: el jueves salieron tres mil latas de menos. El programa sabe cuánto; el porqué está en la planta, en la cabeza de quien arregló la máquina.\n\nY no es una rareza: casi 9 de cada 10 industrias de 50 a 249 personas tienen ERP (87,7 %), pero solo 4 de cada 10 usan programas para analizar sus datos (42,6 %).\n\nLo mínimo que falta: cada parada con su hora, sus minutos, su causa y su máquina. Júntalo con la producción del ERP cada lunes: ahí sale por dónde empezar.\n\nFuente: INE, Encuesta sobre el uso de TIC en las empresas, 1.er trimestre de 2025 (industria, 50-249 personas). La historia es un ejemplo.\n\nSíguenos para más mejora continua para fábricas, sin humo.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
-  "archivos": [
-   "media/2026-10-17_1000_reel/01.mp4"
-  ]
- },
- {
-  "id": "2026-10-18_1000_reel",
-  "cuando": "2026-10-18T10:00:00+02:00",
-  "fecha": "2026-10-18",
-  "hora": "10:00",
-  "tipo": "reel",
-  "caption": "Director de planta: no ataques diez causas a la vez. Ordénalas por minutos y ataca la primera. Eso es un Pareto de paradas.\n\nÓscar es jefe de planta en una envasadora de aceite: atascos, material, ajustes, averías y cambios, todo abierto a la vez. Y nada avanzaba.\n\nAsí que sumó los minutos de una semana por causa y los ordenó de mayor a menor. Arriba, atascos de tapón y ajustes: las dos primeras se llevan el 71 % del tiempo perdido. Eso es un Pareto: pocas causas pesan mucho.\n\nLa tentación era arreglar lo más fácil. Óscar atacó solo la de más minutos. Tu Pareto cabe en una tarde: paradas de la semana, minutos por causa, a por la primera. Al mes, repítelo.\n\n(Historia de ejemplo, con datos simulados.)\n\n¿Cuál es la primera causa de tu línea? Te leo en comentarios.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
-  "archivos": [
-   "media/2026-10-18_1000_reel/01.mp4"
-  ]
- },
- {
-  "id": "2026-10-19_0800_historias",
-  "cuando": "2026-10-19T08:00:00+02:00",
-  "fecha": "2026-10-19",
-  "hora": "08:00",
-  "tipo": "historias",
-  "caption": "",
-  "archivos": [
-   "media/2026-10-19_0800_historias/01.jpg",
-   "media/2026-10-19_0800_historias/02.mp4",
-   "media/2026-10-19_0800_historias/03.jpg"
-  ]
- },
- {
-  "id": "2026-10-19_1345_reel",
-  "cuando": "2026-10-19T13:45:00+02:00",
-  "fecha": "2026-10-19",
-  "hora": "13:45",
-  "tipo": "reel",
-  "caption": "Jefe de producción: en la industria, cada persona tiene pactadas unas 165 horas al mes y trabaja de forma efectiva unas 140 (INE, 2.º trimestre de 2026). Y dentro de esas 140 aún hay horas que no conoces.\n\nBegoña, jefa de producción en una azulejera, compara las horas pactadas y las efectivas del INE. Las que faltan ya las conoce: festivos, bajas y vacaciones.\n\nPero hay otras dentro de las 140: para el INE, una hora esperando en el puesto también es hora efectiva. Esperas y paradas cortas cuentan como hora trabajada.\n\nBegoña apunta un turno de la esmaltadora, cada parada y cada espera, y le salen 40 minutos: un 8 % del turno (ejemplo, cálculo propio). Para encontrar las tuyas: elige un turno, apunta paradas y esperas, y réstalas de las 8 horas.\n\nFuente: INE, Encuesta Trimestral de Coste Laboral, 2.º trimestre de 2026, tabla 6044, y metodología de la ETCL (junio de 2023). La historia es un ejemplo.\n\nSíguenos para más mejora continua para fábricas, sin humo.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
-  "archivos": [
-   "media/2026-10-19_1345_reel/01.mp4"
-  ]
- },
- {
-  "id": "2026-10-20_0745_carrusel",
-  "cuando": "2026-10-20T07:45:00+02:00",
-  "fecha": "2026-10-20",
-  "hora": "07:45",
-  "tipo": "carrusel",
-  "caption": "La idea del método SMED: todo lo que se pueda hacer con la máquina en marcha, se prepara antes de parar. Seis tareas típicas de un cambio que casi siempre se pueden sacar fuera.\n\n¿Quieres más información? Comenta INFO o escríbeme por privado.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
-  "archivos": [
-   "media/2026-10-20_0745_carrusel/01.jpg",
-   "media/2026-10-20_0745_carrusel/02.jpg",
-   "media/2026-10-20_0745_carrusel/03.jpg",
-   "media/2026-10-20_0745_carrusel/04.jpg",
-   "media/2026-10-20_0745_carrusel/05.jpg",
-   "media/2026-10-20_0745_carrusel/06.jpg",
-   "media/2026-10-20_0745_carrusel/07.jpg",
-   "media/2026-10-20_0745_carrusel/08.jpg"
-  ]
- },
- {
-  "id": "2026-10-20_1345_reel",
-  "cuando": "2026-10-20T13:45:00+02:00",
-  "fecha": "2026-10-20",
-  "hora": "13:45",
-  "tipo": "reel",
-  "caption": "Director de planta: tu cambio de molde se acorta sin comprar nada. La idea del método SMED: preparar antes de parar.\n\nPilar dirige la producción en una fábrica de piezas de goma. Su cambio de molde en la prensa 2 duraba 45 minutos, y casi todo se hacía con la prensa parada, hasta buscar las llaves.\n\nLa idea del método SMED: separar lo que solo se puede hacer con la máquina parada (quitar y poner el molde) de lo que se puede hacer con ella en marcha (buscar herramientas, precalentar el molde) y prepararlo antes de parar.\n\nEn tres pasos: mide el cambio de pieza buena a pieza buena, separa las tareas y prepara un carro con todo listo antes de parar. En el ejemplo, de 45 a 30 minutos, sin máquina nueva: con orden.\n\n(Historia de ejemplo, con datos simulados.)\n\n¿Qué tarea del cambio podrías hacer antes? Te leo en comentarios.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
-  "archivos": [
-   "media/2026-10-20_1345_reel/01.mp4"
-  ]
- },
- {
-  "id": "2026-10-21_0800_historias",
-  "cuando": "2026-10-21T08:00:00+02:00",
+  "id": "2026-10-21_0900_historias",
+  "cuando": "2026-10-21T09:00:00+02:00",
   "fecha": "2026-10-21",
-  "hora": "08:00",
+  "hora": "09:00",
   "tipo": "historias",
   "caption": "",
   "archivos": [
-   "media/2026-10-21_0800_historias/01.jpg",
-   "media/2026-10-21_0800_historias/02.mp4",
-   "media/2026-10-21_0800_historias/03.jpg"
+   "media/2026-10-21_0900_historias/01.jpg",
+   "media/2026-10-21_0900_historias/02.jpg",
+   "media/2026-10-21_0900_historias/03.jpg",
+   "media/2026-10-21_0900_historias/04.jpg",
+   "media/2026-10-21_0900_historias/05.jpg",
+   "media/2026-10-21_0900_historias/06.jpg"
   ]
  },
  {
-  "id": "2026-10-21_1345_reel",
-  "cuando": "2026-10-21T13:45:00+02:00",
+  "id": "2026-10-21_1930_reel",
+  "cuando": "2026-10-21T19:30:00+02:00",
   "fecha": "2026-10-21",
-  "hora": "13:45",
+  "hora": "19:30",
   "tipo": "reel",
-  "caption": "Gerente de fábrica: ¿qué miras el lunes a las ocho? Si son cuarenta datos, no miras ninguno.\n\nImagina la reunión del lunes en una fábrica de embutidos: cada uno cuenta su semana y gana quien más fuerte habla. Opiniones hay muchas; lo que falta es saber qué paradas pesaron más.\n\nEso es el Parte Automático de Detailerly: cada lunes, en tu panel, las 3 paradas más graves de la semana y el resumen de todo lo demás. Cada parada, con su hora y su vídeo, para ver qué pasó sin reconstruirlo de memoria.\n\nCon el Parte, la reunión cambia: las tres más graves, el vídeo de la primera, y salís con una acción, con quién y para cuándo. Detailerly te dice dónde; el cómo lo decide tu equipo.\n\nImágenes del vídeo: cuenta de demostración, datos simulados.\n\nMás en detailerly.com (enlace en el perfil).\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
+  "caption": "La misma plantilla, otro sistema.\n\nA principios de los 80, la planta de General Motors en Fremont tenía fama de ser la peor de la empresa: absentismo alto, defectos y una línea que no se paraba nunca. GM la cerró en 1982. Dos años después reabrió con Toyota como NUMMI, con buena parte de la plantilla de antes. Lo que cambió fue el sistema: cualquiera podía parar la línea al ver un problema, y cada parada se apuntaba, se miraba y se arreglaba.\n\nLa lección: los problemas que no se ven no se pueden arreglar.\n\n¿Cuántas paradas cortas se os escapan del parte?\n\nFuentes: This American Life, episodio 403 «NUMMI» (2010); J. Shook, MIT Sloan Management Review (2010).\nVídeo con voz generada por IA.\n\n#leanmanufacturing #mejoracontinua #industria #directordeplanta #toyota",
   "archivos": [
-   "media/2026-10-21_1345_reel/01.mp4"
-  ]
+   "media/2026-10-21_1930_reel/01.mp4"
+  ],
+  "portada": "media/2026-10-21_1930_reel/portada.jpg"
  },
  {
-  "id": "2026-10-22_1345_reel",
-  "cuando": "2026-10-22T13:45:00+02:00",
+  "id": "2026-10-22_0745_reel",
+  "cuando": "2026-10-22T07:45:00+02:00",
   "fecha": "2026-10-22",
-  "hora": "13:45",
-  "tipo": "reel",
-  "caption": "Si haces alimentación: ¿cuánto dura de verdad tu cambio de formato? Esta es la historia de un cambio de «veinte minutos».\n\nEn una fábrica de yogures todos lo saben: el cambio de formato dura veinte minutos. Hasta que Clara, la nueva jefa de turno, lo cronometra desde la última pieza buena hasta la primera buena: cuarenta y cinco.\n\nNadie mentía: medían otra cosa. Veinte es cambiar piezas. Los otros veinticinco se van en ajustes y pruebas, en buscar herramientas y en esperar a que calidad dé el visto bueno.\n\nLa lección: un cambio dura de pieza buena a pieza buena. Mídelo así y en tres cambios seguidos, no en uno.\n\n(Historia de ejemplo, con datos simulados.)\n\nSíguenos para más mejora continua para fábricas, sin humo.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
-  "archivos": [
-   "media/2026-10-22_1345_reel/01.mp4"
-  ]
- },
- {
-  "id": "2026-10-23_0745_carrusel",
-  "cuando": "2026-10-23T07:45:00+02:00",
-  "fecha": "2026-10-23",
   "hora": "07:45",
-  "tipo": "carrusel",
-  "caption": "Horas extra en la industria: lo que dicen los datos del INE y qué mirar en tu planta antes de pagar otro sábado.\n\nFuentes: INE, EPA (2.º trimestre de 2026) e INE, Encuesta Trimestral de Coste Laboral (2.º trimestre de 2026).\n\n¿Quieres más información? Comenta INFO o escríbeme por privado.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
+  "tipo": "reel",
+  "caption": "Más robots no es más producción.\n\nEn 2018, Tesla necesitaba fabricar 5.000 Model 3 a la semana y no llegaba. La fábrica estaba muy automatizada, pero la línea se paraba y se atascaba. En abril, Elon Musk escribió que el exceso de automatización había sido un error. Quitaron parte de ella, volvieron a meter personas y montaron una línea nueva en una carpa. A finales de junio llegaron a las 5.000.\n\nLa lección: automatizar un proceso que no entiendes solo hace que el problema vaya más rápido.\n\n¿Sabes exactamente dónde se frena tu línea?\n\nFuentes: Elon Musk en X, 13/04/2018; Reuters, junio-julio de 2018.\nVídeo con voz generada por IA.\n\n#automatizacion #industria40 #directordeplanta #fabricacion #lean",
   "archivos": [
-   "media/2026-10-23_0745_carrusel/01.jpg",
-   "media/2026-10-23_0745_carrusel/02.jpg",
-   "media/2026-10-23_0745_carrusel/03.jpg",
-   "media/2026-10-23_0745_carrusel/04.jpg",
-   "media/2026-10-23_0745_carrusel/05.jpg",
-   "media/2026-10-23_0745_carrusel/06.jpg",
-   "media/2026-10-23_0745_carrusel/07.jpg"
-  ]
- },
- {
-  "id": "2026-10-23_0800_historias",
-  "cuando": "2026-10-23T08:00:00+02:00",
-  "fecha": "2026-10-23",
-  "hora": "08:00",
-  "tipo": "historias",
-  "caption": "",
-  "archivos": [
-   "media/2026-10-23_0800_historias/01.jpg",
-   "media/2026-10-23_0800_historias/02.mp4",
-   "media/2026-10-23_0800_historias/03.jpg"
-  ]
+   "media/2026-10-22_0745_reel/01.mp4"
+  ],
+  "portada": "media/2026-10-22_0745_reel/portada.jpg"
  },
  {
   "id": "2026-10-23_1345_reel",
@@ -249,10 +45,11 @@
   "fecha": "2026-10-23",
   "hora": "13:45",
   "tipo": "reel",
-  "caption": "Gerente de fábrica: el sábado que pagas muchas veces viene del martes. Casi un millón de horas extra a la semana en la industria manufacturera (INE, EPA, 2.º trimestre de 2026).\n\nVicente dirige una fábrica de perfiles de aluminio y paga sábados casi todos los meses. En la industria, cada hora extra cuesta de media 25,85 €.\n\nUn día pone juntas las horas extra del mes y las paradas de cada semana, y mira el martes: esperas de material y paradas cortas que nadie sumó. El viernes, el pedido no sale. El sábado, horas extra.\n\nDesde entonces, cada hora extra lleva su motivo y sus paradas al lado, y se ataca la que se repite. Antes de pagar otro sábado, mira el martes.\n\nFuentes: INE, Encuesta de Población Activa, 2.º trimestre de 2026 (976.500 horas extra a la semana en manufacturas), e INE, Encuesta Trimestral de Coste Laboral, 2.º trimestre de 2026 (coste por hora extraordinaria). La historia es un ejemplo.\n\n¿Cuántos sábados metisteis este mes? Te leo en comentarios.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
+  "caption": "De 4 horas a 3 minutos para cambiar un molde.\n\nA finales de los 60, cambiar el molde de una gran prensa en Toyota dejaba la máquina parada horas. Shigeo Shingo miró el cambio paso a paso y vio que casi todo se hacía con la máquina parada sin necesidad. Separó lo que solo se puede hacer parado de lo que se puede preparar con la máquina en marcha. Así nació el SMED.\n\nCómo empezar mañana: en tu próximo cambio de formato, mide desde la última pieza buena hasta la primera buena y apunta qué tareas se podrían preparar antes.\n\n¿Cuánto dura de verdad tu cambio de formato?\n\nFuentes: S. Shingo, A Revolution in Manufacturing: The SMED System (1985); Lean Enterprise Institute.\nVídeo con voz generada por IA.\n\n#smed #cambiodeformato #lean #produccion #directordeplanta",
   "archivos": [
    "media/2026-10-23_1345_reel/01.mp4"
-  ]
+  ],
+  "portada": "media/2026-10-23_1345_reel/portada.jpg"
  },
  {
   "id": "2026-10-24_1000_reel",
@@ -260,44 +57,146 @@
   "fecha": "2026-10-24",
   "hora": "10:00",
   "tipo": "reel",
-  "caption": "Jefe de producción: la respuesta no está en la oficina. Está en la línea. Eso es Gemba: ir a ver, con una pregunta.\n\nRamón dirige una fábrica de detergentes y solo bajaba a la línea cuando algo se rompía. Gemba es una palabra japonesa: el lugar real, donde pasan las cosas. En planta, la línea, la máquina y quien trabaja allí.\n\nPero ir sin una pregunta es un paseo. Así que empezó a bajar cada día, a las diez, con una pregunta concreta: ¿por qué se acumulan garrafas delante de la etiquetadora?\n\nDiez minutos mirando y preguntando a quien estaba allí, y volvió con un dato: el rollo de etiquetas se cambia sin preparar el siguiente. Gemba: baja con una pregunta, vuelve con un dato.\n\n(Historia de ejemplo.)\n\nSíguenos para más mejora continua para fábricas, sin humo.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
+  "caption": "Ford pagó el doble y le salió más barato.\n\nEn 1913, la rotación en Ford era enorme: para mantener unos 14.000 puestos contrató a más de 50.000 personas en un año. Cada persona nueva había que formarla, se equivocaba al principio y frenaba la línea. En enero de 1914 anunció 5 dólares por una jornada de 8 horas, más del doble de lo que pagaba. La gente empezó a quedarse y la rotación se desplomó.\n\nLa lección: cada persona que se va se lleva lo que sabía de tu línea.\n\n¿Cuánto os cuesta formar a alguien que se va a los tres meses?\n\nFuentes: The Henry Ford; D. Raff y L. Summers, «Did Henry Ford Pay Efficiency Wages?» (1987).\nVídeo con voz generada por IA.\n\n#industria #fabricacion #rrhh #directordeplanta #historiadelaindustria",
   "archivos": [
    "media/2026-10-24_1000_reel/01.mp4"
-  ]
+  ],
+  "portada": "media/2026-10-24_1000_reel/portada.jpg"
  },
  {
-  "id": "2026-10-25_1000_reel",
-  "cuando": "2026-10-25T10:00:00+01:00",
+  "id": "2026-10-25_1800_reel",
+  "cuando": "2026-10-25T18:00:00+01:00",
   "fecha": "2026-10-25",
-  "hora": "10:00",
+  "hora": "18:00",
   "tipo": "reel",
-  "caption": "Si diriges una fábrica mediana: por hora trabajada, la industria de 50 a 249 personas genera unos 44 € de valor añadido y la grande, unos 59 € (Eurostat, 2024). La distancia no está con Europa.\n\nAlberto dirige una fábrica de 120 personas. Según Eurostat, por hora trabajada una grande genera unos 59 € de valor añadido y una mediana, unos 44 €: tres cuartos (cálculo propio).\n\nPero la mediana europea genera unos 42 €. La distancia no está con Europa: está con las grandes de aquí, que tienen gente de procesos, paradas medidas por causa y una revisión cada semana.\n\nLo que se copia sin gastar: paradas por causa cada día, por turno y por máquina (nunca por persona), y una revisión semanal de quince minutos.\n\nFuente: Eurostat, Structural Business Statistics (sbs_sc_ovw), manufacturas, 2024. Euros nominales, sin ajustar entre países. El 75 % es cálculo propio. La historia es un ejemplo.\n\n¿Medís las paradas por causa? Te leo en comentarios.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
+  "caption": "Kodak tenía la cámara digital en 1975. Y quebró en 2012.\n\nSteve Sasson, ingeniero de Kodak, construyó en 1975 la primera cámara digital: fotos de 10.000 píxeles que tardaban 23 segundos en guardarse. Pero el invento amenazaba el negocio del carrete, y Kodak no lo empujó. Otros sí. En enero de 2012, Kodak se declaró en quiebra.\n\nLa lección: a veces el mayor riesgo es proteger lo que siempre ha funcionado.\n\n¿Qué estás protegiendo en tu planta que quizá ya no funciona?\n\nFuentes: S. Sasson; The New York Times; Reuters (enero de 2012).\nVídeo con voz generada por IA.\n\n#industria #innovacion #empresa #directordeplanta #casodeestudio",
   "archivos": [
-   "media/2026-10-25_1000_reel/01.mp4"
-  ]
+   "media/2026-10-25_1800_reel/01.mp4"
+  ],
+  "portada": "media/2026-10-25_1800_reel/portada.jpg"
  },
  {
-  "id": "2026-10-26_0800_historias",
-  "cuando": "2026-10-26T08:00:00+01:00",
+  "id": "2026-10-26_1930_reel",
+  "cuando": "2026-10-26T19:30:00+01:00",
   "fecha": "2026-10-26",
-  "hora": "08:00",
+  "hora": "19:30",
+  "tipo": "reel",
+  "caption": "Lo que toleras se convierte en tu nivel de calidad.\n\nEn 1993, Lee Kun-hee reunió a los directivos de Samsung en Fráncfort y les pidió cambiarlo todo. En 1995 los móviles seguían saliendo con defectos, así que mandó apilar unos 150.000 aparatos en el patio de la fábrica y quemarlos delante de la plantilla. El mensaje quedó claro. Años después, Samsung era el mayor fabricante de móviles del mundo.\n\n¿Qué defecto toleráis en tu planta porque siempre ha estado ahí?\n\nFuentes: The Korea Times; G. Cain, Samsung Rising (2020).\nVídeo con voz generada por IA.\n\n#calidad #industria #mejoracontinua #directordeplanta #casodeestudio",
+  "archivos": [
+   "media/2026-10-26_1930_reel/01.mp4"
+  ],
+  "portada": "media/2026-10-26_1930_reel/portada.jpg"
+ },
+ {
+  "id": "2026-10-27_0745_reel",
+  "cuando": "2026-10-27T07:45:00+01:00",
+  "fecha": "2026-10-27",
+  "hora": "07:45",
+  "tipo": "reel",
+  "caption": "Cambiar el fusible no arregla la avería.\n\nTaiichi Ohno lo explicaba con una máquina parada: saltó el fusible por una sobrecarga; la sobrecarga venía de un cojinete mal engrasado; el cojinete, de una bomba que no bombeaba; la bomba, de un eje desgastado; y el eje, de que faltaba un filtro y entraban virutas. Si solo cambias el fusible, la máquina se vuelve a parar.\n\nCómo usarlo mañana: ante cada parada que se repite, pregunta «¿por qué?» hasta llegar a algo que se pueda arreglar para siempre.\n\n¿Cuántos porqués preguntáis en tu planta?\n\nFuente: T. Ohno, El sistema de producción Toyota (1988).\nVídeo con voz generada por IA.\n\n#5porques #lean #mantenimiento #mejoracontinua #directordeplanta",
+  "archivos": [
+   "media/2026-10-27_0745_reel/01.mp4"
+  ],
+  "portada": "media/2026-10-27_0745_reel/portada.jpg"
+ },
+ {
+  "id": "2026-10-28_0900_historias",
+  "cuando": "2026-10-28T09:00:00+01:00",
+  "fecha": "2026-10-28",
+  "hora": "09:00",
   "tipo": "historias",
   "caption": "",
   "archivos": [
-   "media/2026-10-26_0800_historias/01.jpg",
-   "media/2026-10-26_0800_historias/02.mp4",
-   "media/2026-10-26_0800_historias/03.jpg"
+   "media/2026-10-28_0900_historias/01.jpg",
+   "media/2026-10-28_0900_historias/02.jpg",
+   "media/2026-10-28_0900_historias/03.jpg",
+   "media/2026-10-28_0900_historias/04.jpg",
+   "media/2026-10-28_0900_historias/05.jpg",
+   "media/2026-10-28_0900_historias/06.jpg"
   ]
  },
  {
-  "id": "2026-10-26_1345_reel",
-  "cuando": "2026-10-26T13:45:00+01:00",
-  "fecha": "2026-10-26",
+  "id": "2026-10-28_1345_reel",
+  "cuando": "2026-10-28T13:45:00+01:00",
+  "fecha": "2026-10-28",
   "hora": "13:45",
   "tipo": "reel",
-  "caption": "Director de planta: si la misma parada vuelve, arreglaste el síntoma. Los cinco porqués sirven para llegar a la causa. Esta es la historia de un sensor.\n\nEn una fábrica de harinas, la paletizadora se para treinta veces al día porque salta un sensor. Alguien lo rearma y sigue. Siempre se rearma; nunca se arregla.\n\nHasta que Jorge, de mantenimiento, pregunta por qué. Salta porque el saco llega torcido. Torcido, porque la guía está floja. Floja, porque vibra. ¿Y por qué nadie la aprieta? Porque no está en ninguna revisión. La causa nunca fue el sensor.\n\nEl arreglo fue meter la guía en la revisión semanal. Para que los cinco porqués funcionen: con el dato delante, con quien la arregla cada día y hasta llegar a algo que se pueda cambiar.\n\n(Historia de ejemplo, con datos simulados.)\n\nSíguenos para más mejora continua para fábricas, sin humo.\n\n#produccion #mejoracontinua #fabrica #industria #leanmanufacturing",
+  "caption": "La complejidad también se fabrica. Y sale cara.\n\nA principios de los 2000, LEGO llegó a fabricar casi 13.000 piezas distintas, muchas para un solo set. Cada pieza nueva era un molde, un cambio de máquina y más stock. Vendía mucho, pero perdía dinero. En 2004, Jørgen Vig Knudstorp recortó a unas 7.000 piezas y vendió lo que no era su negocio. En pocos años volvió a ganar dinero.\n\n¿Cuántas referencias fabricas que casi nadie te compra?\n\nFuente: D. Robertson, Brick by Brick (2013).\nVídeo con voz generada por IA.\n\n#industria #fabricacion #lean #directordeplanta #casodeestudio",
   "archivos": [
-   "media/2026-10-26_1345_reel/01.mp4"
-  ]
+   "media/2026-10-28_1345_reel/01.mp4"
+  ],
+  "portada": "media/2026-10-28_1345_reel/portada.jpg"
+ },
+ {
+  "id": "2026-10-29_1930_reel",
+  "cuando": "2026-10-29T19:30:00+01:00",
+  "fecha": "2026-10-29",
+  "hora": "19:30",
+  "tipo": "reel",
+  "caption": "La cuerda de Toyota, en 2026.\n\nEn Toyota, cualquiera puede parar la línea para que los problemas no se escondan. En muchas fábricas pasa lo contrario: la máquina se para dos minutos, se arranca y nadie lo apunta. Detailerly detecta con visión artificial cada parada, también las cortas, con su hora, su duración y su vídeo. Cada lunes, el parte con las más grandes; al mes, por dónde empezar.\n\nLo que no hace: no identifica a nadie ni mide a ningún operario, no se conecta a las máquinas ni al ERP y no detecta defectos.\n\nSi quieres ver cómo funciona en 2 minutos, escríbenos VÍDEO por privado.\n\nLas capturas son de la cuenta demo, con datos simulados. Vídeo con voz generada por IA.\n\n#mejoracontinua #industria #produccion #directordeplanta #lean",
+  "archivos": [
+   "media/2026-10-29_1930_reel/01.mp4"
+  ],
+  "portada": "media/2026-10-29_1930_reel/portada.jpg"
+ },
+ {
+  "id": "2026-10-30_0745_reel",
+  "cuando": "2026-10-30T07:45:00+01:00",
+  "fecha": "2026-10-30",
+  "hora": "07:45",
+  "tipo": "reel",
+  "caption": "Ardió la única fábrica de una pieza clave de Toyota. En días volvían a fabricar.\n\nEl 1 de febrero de 1997 ardió una planta de Aisin en Kariya, de donde salían casi todas las válvulas de freno de Toyota. Con apenas un par de días de stock, las líneas empezaron a pararse. Decenas de empresas, muchas sin haber hecho nunca esa pieza, se pusieron a fabricarla con los planos de Aisin. En unos días, Toyota volvió a producir.\n\nLa lección: lo que salvó a Toyota no fue el stock, fue que el conocimiento estaba compartido.\n\nSi mañana se para tu máquina clave, ¿quién sabe exactamente qué hacer?\n\nFuente: T. Nishiguchi y A. Beaudet, «The Toyota Group and the Aisin Fire», MIT Sloan Management Review (1998).\nVídeo con voz generada por IA.\n\n#toyota #cadenadesuministro #industria #directordeplanta #lean",
+  "archivos": [
+   "media/2026-10-30_0745_reel/01.mp4"
+  ],
+  "portada": "media/2026-10-30_0745_reel/portada.jpg"
+ },
+ {
+  "id": "2026-10-31_1000_reel",
+  "cuando": "2026-10-31T10:00:00+01:00",
+  "fecha": "2026-10-31",
+  "hora": "10:00",
+  "tipo": "reel",
+  "caption": "De ocho meses a cuatro días por barco.\n\nEn la Segunda Guerra Mundial, EE. UU. necesitaba barcos de carga más rápido de lo que se hundían. Los Liberty empezaron tardando unos ocho meses. Dividieron el barco en grandes trozos que se fabricaban a la vez, cambiaron remaches por soldadura y repitieron cada tarea hasta dominarla. En noviembre de 1942, el Robert E. Peary se montó en 4 días y 15 horas. Se construyeron más de 2.700.\n\nLa lección: prepara a la vez lo que hoy se hace en fila.\n\n¿Qué parte de tu proceso podrías preparar antes de que llegue a la línea?\n\nFuentes: U.S. Maritime Administration; National Park Service.\nVídeo con voz generada por IA.\n\n#industria #fabricacion #productividad #directordeplanta #historiadelaindustria",
+  "archivos": [
+   "media/2026-10-31_1000_reel/01.mp4"
+  ],
+  "portada": "media/2026-10-31_1000_reel/portada.jpg"
+ },
+ {
+  "id": "2026-11-01_1800_reel",
+  "cuando": "2026-11-01T18:00:00+01:00",
+  "fecha": "2026-11-01",
+  "hora": "18:00",
+  "tipo": "reel",
+  "caption": "El coste no siempre está en fabricar.\n\nEn 1956, Gillis Lundgren, diseñador de IKEA, no conseguía meter una mesa en el coche y le quitó las patas. Sin patas ocupaba una fracción del espacio. Menos sitio en el camión y en el almacén, menos golpes y un precio más bajo: el paquete plano se convirtió en la base de IKEA.\n\nLa lección: mira cuánto te cuesta mover y guardar lo que fabricas.\n\n¿Qué estás transportando o almacenando que podría ocupar la mitad?\n\nFuente: IKEA Museum.\nVídeo con voz generada por IA.\n\n#logistica #industria #fabricacion #directordeplanta #casodeestudio",
+  "archivos": [
+   "media/2026-11-01_1800_reel/01.mp4"
+  ],
+  "portada": "media/2026-11-01_1800_reel/portada.jpg"
+ },
+ {
+  "id": "2026-11-02_1345_reel",
+  "cuando": "2026-11-02T13:45:00+01:00",
+  "fecha": "2026-11-02",
+  "hora": "13:45",
+  "tipo": "reel",
+  "caption": "Dos equipos que miden distinto. Dos años de retraso.\n\nEn 2006, las secciones del Airbus A380 hechas en Hamburgo llegaban a Toulouse y los cables no encajaban: cada avión lleva más de 500 km de cable y las plantas usaban versiones distintas del mismo programa de diseño. Hubo que recablear a mano y el retraso costó miles de millones.\n\nLa lección: si cada equipo mide a su manera, el problema aparece al juntar las piezas.\n\n¿Tus turnos, tus naves o tus equipos miden igual las cosas?\n\nFuentes: Reuters; Der Spiegel (2006); Airbus.\nVídeo con voz generada por IA.\n\n#industria #calidad #ingenieria #directordeplanta #casodeestudio",
+  "archivos": [
+   "media/2026-11-02_1345_reel/01.mp4"
+  ],
+  "portada": "media/2026-11-02_1345_reel/portada.jpg"
+ },
+ {
+  "id": "2026-11-03_1930_reel",
+  "cuando": "2026-11-03T19:30:00+01:00",
+  "fecha": "2026-11-03",
+  "hora": "19:30",
+  "tipo": "reel",
+  "caption": "Tu línea va al ritmo de su puesto más lento.\n\nEn La meta, la novela de Eliyahu Goldratt, un director de fábrica lleva a unos niños de excursión y la fila no para de estirarse: el grupo llega cuando llega Herbie, el más lento. Pone a Herbie delante, le quita peso de la mochila y el grupo entero va más rápido. Su fábrica funcionaba igual.\n\nCómo encontrarlo mañana: mira dónde se acumula el material y qué puesto nunca para de trabajar.\n\n¿Quién es el Herbie de tu línea?\n\nFuente: E. Goldratt, La meta (1984). Es una novela; el método, la teoría de restricciones, se usa en fábricas de todo el mundo.\nVídeo con voz generada por IA.\n\n#cuellodebotella #lameta #lean #produccion #directordeplanta",
+  "archivos": [
+   "media/2026-11-03_1930_reel/01.mp4"
+  ],
+  "portada": "media/2026-11-03_1930_reel/portada.jpg"
  }
 ]

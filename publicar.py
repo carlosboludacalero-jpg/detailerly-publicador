@@ -1,6 +1,7 @@
 """Publica en Instagram lo que toca según cola.json. Lo ejecuta GitHub Actions cada 10 minutos.
 
-Variables de entorno: IG_TOKEN, IG_USER_ID, BASE_URL (GitHub Pages de este repo), TG_TOKEN y TG_CHAT (avisos, opcionales).
+Variables de entorno: IG_TOKEN, IG_USER_ID y BASE_URL (GitHub Pages de este repo).
+Sin avisos a Telegram: lo que pasa queda en el registro de GitHub Actions.
 Estado (lo ya publicado) en estado/publicado.json, que el workflow guarda en la rama «estado».
 Uso local de prueba: python publicar.py --prueba  → crea los contenedores de la próxima publicación sin publicarla.
 """
@@ -32,17 +33,6 @@ def llamar(metodo, ruta, **params):
     except urllib.error.HTTPError as e:
         err = json.load(e).get("error", {})
         raise ErrorIG(f"{err.get('message')} (código {err.get('code')}/{err.get('error_subcode')})") from None
-
-
-def avisar(texto):
-    tg, chat = os.environ.get("TG_TOKEN"), os.environ.get("TG_CHAT")
-    print(texto)
-    if tg and chat:
-        try:
-            urllib.request.urlopen(f"https://api.telegram.org/bot{tg}/sendMessage",
-                                   urllib.parse.urlencode({"chat_id": chat, "text": texto}).encode(), timeout=20)
-        except Exception as e:
-            print("Telegram falló:", e)
 
 
 def url(ruta):
@@ -77,7 +67,8 @@ def crear(pub):
     """Devuelve una lista de (subclave, función que crea el contenedor) en el orden de publicación."""
     a, cap = pub["archivos"], pub["caption"]
     if pub["tipo"] == "reel":
-        return [("", lambda: contenedor(a[0], media_type="REELS", caption=cap, share_to_feed="true"))]
+        portada = {"cover_url": url(pub["portada"])} if pub.get("portada") else {}  # portada elegida (19/10/2026)
+        return [("", lambda: contenedor(a[0], media_type="REELS", caption=cap, share_to_feed="true", **portada))]
     if pub["tipo"] == "foto":
         return [("", lambda: contenedor(a[0], caption=cap))]
     if pub["tipo"] == "carrusel":
@@ -128,7 +119,7 @@ def main():
             continue
         if ahora - cuando > MARGEN:
             estado["hechos"][pid] = "saltado"
-            avisar(f"⚠️ No se publicó a tiempo: {pub['tipo']} del {pub['fecha']} {pub['hora']}. Súbelo a mano si quieres.")
+            print(f"⚠️ No se publicó a tiempo: {pub['tipo']} del {pub['fecha']} {pub['hora']}. Súbelo a mano si quieres.")
             continue
         if estado["intentos"].get(pid, 0) >= MAX_INTENTOS:
             continue
@@ -144,11 +135,9 @@ def main():
                 if sub:
                     estado["hechos"][pid + sub] = ids[-1]
             estado["hechos"][pid] = ids[-1] if ids else "ok"
-            link = llamar("GET", ids[-1], fields="permalink").get("permalink", "") if ids else ""
-            avisar(f"✅ Publicado en Instagram: {pub['tipo']} de las {pub['hora']}\n{pub['caption'][:80]}\n{link}".strip())
         except Exception as e:
             n = estado["intentos"][pid] = estado["intentos"].get(pid, 0) + 1
-            avisar(f"❌ Falló {pub['tipo']} del {pub['fecha']} {pub['hora']} (intento {n}/{MAX_INTENTOS}): {e}")
+            print(f"❌ Falló {pub['tipo']} del {pub['fecha']} {pub['hora']} (intento {n}/{MAX_INTENTOS}): {e}")
         finally:
             os.makedirs(os.path.dirname(ESTADO), exist_ok=True)
             json.dump(estado, open(ESTADO, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
